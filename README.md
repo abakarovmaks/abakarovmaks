@@ -19,9 +19,15 @@
 ![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-06050B?style=for-the-badge&logo=webdriverio&logoColor=EA5906)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-06050B?style=for-the-badge&logo=dbeaver&logoColor=EA5906)
 
-Automation testing projects
+### Automation testing projects
 
-Testing documentation
+- [Samplius]()
+- [Writingbros]()
+
+### Testing documentation
+
+- [Checklists]()
+- [Postman Collections]()
 
 ### Contacts
 
