@@ -26,5 +26,5 @@ Testing documentation
 ### Contacts
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-06050B?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/maksymabakarov/)
-[![Gmail](https://img.shields.io/badge/-Gmail-06050B?style=for-the-badge&logo=gmail&logoColor=EA4335)](abakarovmaks@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-06050B?style=for-the-badge&logo=gmail&logoColor=EA4335)](href="mailto:abakarovmaks@gmail.com")
 [![Telegram](https://img.shields.io/badge/-Telegram-06050B?style=for-the-badge&logo=telegram&logoColor=33A8DA)](https://telegram.me/abakarovmaks)
