@@ -28,3 +28,5 @@ Testing documentation
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-06050B?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/maksymabakarov/)
 [![Gmail](https://img.shields.io/badge/-Gmail-06050B?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:abakarovmaks@gmail.com">)
 [![Telegram](https://img.shields.io/badge/-Telegram-06050B?style=for-the-badge&logo=telegram&logoColor=33A8DA)](https://telegram.me/abakarovmaks)
+
+[![Abakarov Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=abakarovmaks&show_icons=true&hide=issues,stars&theme=omni)](https://github.com/abakarovmaks)
