@@ -1,4 +1,4 @@
-[![Header](https://github.com/abakarovmaks/abakarovmaks/blob/main/assets/abakarovmaksym.png)]()
+[![Header](https://github.com/abakarovmaks/abakarovmaks/blob/main/assets/logo.png)]()
 
 ## I am a QA Engineer with experience in manual and automation testing.
 
