@@ -20,7 +20,7 @@
 
 ### Automation testing projects
 
-- [WebdriverIO]()
+- [WebdriverIO](https://github.com/abakarovmaks/webdriverIO)
 - [Cypress](https://github.com/abakarovmaks/cypress)
 
 ### Testing documentation
